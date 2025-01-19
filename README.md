@@ -1,4 +1,4 @@
-# MSc Data Science Coursework
+# MSc Data Science Courseworks
 This repository contains coursework, projects, and assignments completed during my **Master’s in Data Science**. It includes topics such as **Machine Learning, Big Data, Deep Learning, and Cloud Computing**.
 
 ## 📁 Repository Structure
